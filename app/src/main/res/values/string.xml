@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright 2012 Google Inc. All rights reserved.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+<resources>
+    <string name="app_name">Klublime</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Klublime Subscriptions</string>
+
+    <string name="alert_no_gas">Oh, no! You are out of gifts! Try buying some!</string>
+    <string name="alert_drove">Vroooom, you used a chance.</string>
+    <string name="alert_fill_gas">You filled gift!</string>
+    <string name="alert_error_consuming">Error while consuming: gift</string>
+    <string name="alert_already_purchased">Item is already purchased</string>
+
+    <string name="error_no_skus">We didn\'t find any SKUs to display&#8230; Check your internet
+        connection.</string>
+    <string name="error_billing_unavailable">Billing unavailable. Make sure your Google Play app
+        is setup correctly</string>
+    <string name="error_billing_default">Billing unavailable. Please check your device.</string>
+    <string name="error_codelab_not_finished">TODO: Here you will need to perform the
+        integration with Play Store to study the New way of integration with Play Billing.
+    </string>
+
+    <string name="button_drive">Try</string>
+    <string name="button_purchase">Purchase</string>
+    <string name="button_buy">Buy</string>
+    <string name="button_full_tank">Full gift</string>
+    <string name="toast_full_tank">Your gift is full, please use some gift before buying
+        more.</string>
+
+    <string name="content_description_app_loading_image">App loading image</string>
+    <string name="content_description_title_image">80\'s Video Game Style Car Logo</string>
+    <string name="content_desc_gas_gauge_indicator">Gas gauge indicator</string>
+    <string name="content_desc_free_vs_premium_indicator">Free or Premium Image Indicator</string>
+
+
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Gifts!</string>
+    <string name="slide_1_desc">Gifts start small but grows as the community grows</string>
+
+    <string name="slide_2_title">Klublime Subscriptions</string>
+    <string name="slide_2_desc">The sooner you join the better your gifts and perks will be</string>
+
+    <string name="slide_3_title">Join now </string>
+    <string name="slide_3_desc">Register now. As the community grows the cost to join will increase. So get in quick!!!</string>
+
+    <string name="slide_4_title">Register to Get it Delivered</string>
+    <string name="slide_4_desc">Register with your email and address so we can be sure to send your gifts and perks.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_visitor_home">VisitorHome</string>
+    <string name="title_activity_kids_home">KidsHome</string>
+    <string name="login_or_sign_up_info">Login</string>
+    <string name="privacy_policy">By signing up, you agree to the <a href='https://www.applozic.com/privacy.html'>privacy policy</a></string>
+
+
+    <!-- TODO - add your ad unit Ids -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-2719934225245369~5485312230</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2719934225245369/6443170688</string>
+    <string name="interstitial_full_screen">ca-app-pub-2719934225245369/7261428337</string>
+
+
+    <string name="next">NEXT</string>
+
+</resources>

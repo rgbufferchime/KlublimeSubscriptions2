@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "947753165466",
+    "firebase_url": "https://klublime-subscription.firebaseio.com",
+    "project_id": "klublime-subscription",
+    "storage_bucket": "klublime-subscription.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947753165466:android:c318f64384f8d402",
+        "android_client_info": {
+          "package_name": "com.bufferchime.klublimesubscriptions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947753165466-p7j74i6rojhab4sfqlamcnei4dihuag2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRyqqIlYOGLUi347lcZ0TOSjDgM_rjAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
